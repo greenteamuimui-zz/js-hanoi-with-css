@@ -1,0 +1,36 @@
+ul {
+  border: solid 1px;
+  list-style-type: none;
+  width: 200px;
+  height: 300px;
+  float: left;
+  padding: 5px;
+}
+
+ul li {
+  align-items: center;
+  width: 80%;
+  height: 30%;
+  border: solid 1px;
+  margin: auto;
+  margin: 5px;
+}
+
+.disc1 {
+  text-align: center;
+  width: 30%;
+  height: 30%;
+  border: solid 1px;
+}
+
+.disc2 {
+  width: 50%;
+  height: 30%;
+  border: solid 1px;
+}
+
+.disc3 {
+  width: 80%;
+  height: 30%;
+  border: solid 1px;
+}
